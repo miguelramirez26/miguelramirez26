@@ -1,8 +1,8 @@
-# Miguel Ramirez 
+# Miguel Ramirez
 
 Hello, GitHub! 👋
 
-I'm **Miguel**, a Software Development student at Brigham Young University-Idaho interested in building efficient software solutions, web development, and tech support.
+I'm **Miguel Ramirez**, a Software Development student at Brigham Young University-Idaho interested in building efficient software solutions, web development, and tech support.
 
 ## 👤 About Me
 
@@ -13,7 +13,17 @@ I'm **Miguel**, a Software Development student at Brigham Young University-Idaho
 
 ## 🚀 Technologies and Tools
 
-- **Proficient in:** Python, HTML/CSS, Java, JavaScript
+<div>
+  <img src="https://githubusercontent.com" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+<br/>
+
 - **Skills:** Hardware setup, system updates, troubleshooting, and customer experience
 
 ## 🎓 Education & Certifications
@@ -23,6 +33,6 @@ I'm **Miguel**, a Software Development student at Brigham Young University-Idaho
 
 ## 🤝 Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/miguel-ramirez-946098230/) profile
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/miguel-ramirez-946098230/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
